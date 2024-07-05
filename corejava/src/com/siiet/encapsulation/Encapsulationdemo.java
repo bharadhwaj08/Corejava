@@ -5,7 +5,8 @@ public class Encapsulationdemo {
 	String name;
 	int age;
 	void show() {
-		System.out.println( "serialnumber"+serialnumber+"name"+name+"age");
+		System.out.println( "serialnumber"+serialnumber+"name"+name+"age"
+				);
 	}
 	
 	
