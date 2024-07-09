@@ -7,7 +7,7 @@ public class Customerdemo{
 		System.out.println("enter your name");
 		String name=sc.nextline();
 		System.out.println("id");
-		int id =sc,+
+		
 		
 		
 		
