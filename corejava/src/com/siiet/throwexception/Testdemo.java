@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Testdemo {
 	public static void main(String[] args) {
+		int i=0;
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter rollno");
 		int rollno=sc.nextInt();
