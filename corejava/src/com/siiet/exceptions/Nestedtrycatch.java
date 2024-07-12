@@ -17,10 +17,10 @@ public class Nestedtrycatch {
 			}
 		System.out.println("string length"+anotherstring);
 		}
-		catch("NullPointerException npe") {
+		
 			
 		}
 		
 	}
 
-}
+
