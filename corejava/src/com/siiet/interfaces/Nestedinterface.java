@@ -2,7 +2,6 @@ package com.siiet.interfaces;
 
 public class Nestedinterface implements Myinterface.Myinnerinterface {
 
-	@Override
 	public void print() {
 		// TODO Auto-generated method stub
 	System.out.println("innner interfaces");	

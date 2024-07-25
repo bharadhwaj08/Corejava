@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	pl.add(new Product(1,"hp",400000));
 	pl.add(new Product(2,"dell",500000));
 	pl.add(new Product(3,"apple",600000));
-	List<Float>pl2=pl.stream().filter(p->p.price<30000);
+	List<Float>pl2=(List<Float>) pl.stream().filter(p->p.price<30000);
 	
 	
 }
